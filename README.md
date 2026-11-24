@@ -1,2 +1,2 @@
 # Curriculum-vitae
-https://roadmap.sh/projects/single-page-cv
+https://github.com/JuanseTab6/Curr-culum-vitae
